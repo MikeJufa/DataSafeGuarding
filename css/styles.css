@@ -64,7 +64,7 @@ p {
 }
 
 #title {
-  background-color: #ff4c68;
+  background-color: #6927ff;
   color: #fff;
   text-align: left;
 }
@@ -83,17 +83,17 @@ p {
 }
 
 .icon {
-  color: #ef8172;
+  color: #837dff;
   margin-bottom: 1rem;
 }
 
 .icon:hover {
-  color: #ff4c68;
+  color: #6927ff;
 }
 
 /* Testimonial Section */
 #testimonials {
-  background-color: #ef8172;
+  background-color: #837dff;
   color: #fff;
 }
 
@@ -114,7 +114,7 @@ p {
 }
 
 #press {
-  background-color: #ef8172;
+  background-color: #837dff;
   padding-bottom: 3%;
 }
 
@@ -143,7 +143,7 @@ p {
 
 /* CTA Section */
 #cta {
-  background-color: #ff4c68;
+  background-color: #6927ff;
   color: #fff;
 }
 
